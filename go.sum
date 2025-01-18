@@ -1,4 +1,4 @@
-github.com/bandithijo/go-say-hello v1.0.0 h1:Y2YeibqHd72JDDYFZlZ9M0Cu9/kR3hc7h5Bp5fSMvSQ=
-github.com/bandithijo/go-say-hello v1.0.0/go.mod h1:w594dmaThBkRza0lWYzo3xO/a6cc6gqxCLwI/voQl5o=
-github.com/bandithijo/go-say-hello v1.1.0 h1:Lz1GfwmqGJvS7KK5J7LbeNKXaBqLrWGNceKHR5ySegg=
-github.com/bandithijo/go-say-hello v1.1.0/go.mod h1:w594dmaThBkRza0lWYzo3xO/a6cc6gqxCLwI/voQl5o=
+github.com/bandithijo/go-say-hello v1.2.0 h1:CshW23celx5dfsM2zt02xsbCI7ih2tQhMMNleFAJEr4=
+github.com/bandithijo/go-say-hello v1.2.0/go.mod h1:w594dmaThBkRza0lWYzo3xO/a6cc6gqxCLwI/voQl5o=
+github.com/bandithijo/go-say-hello/v2 v2.0.0 h1:foHzZIxQMmuCwvgWVXTbBNQzgIQQ6FSsFedmBSUzx+s=
+github.com/bandithijo/go-say-hello/v2 v2.0.0/go.mod h1:dGV2GFQH/o3uhUA5IP3KP9eSpziyug0cs7rwdp93Ahs=
